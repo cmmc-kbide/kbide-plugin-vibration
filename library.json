@@ -1,0 +1,16 @@
+{
+  "name" : "kbide-plugin-vibration",
+  "title": "vibration",
+  "keywords": "vibration, esp32, esp8266, arduino",
+  "description": "Plugin vibration for KB-IDE",
+  "git": "https://github.com/cmmc-kbide/kbide-plugin-vibration/",
+  "author": "cmmakerclub",
+  "email": "",
+  "url": "https://github.com/cmmc-kbide/kbide-plugin-vibration/",
+  "version": "1.0.0",
+  "board" : "",
+  "platform": ["arduino-esp32"],
+  "license": "",
+  "image" : "/static/display.png",
+  "homepage": "http://www.kbide.org"
+}
